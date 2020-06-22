@@ -1,10 +1,10 @@
-package hu.flowacademy.meetingorganizer;
+package hu.bluesaloon.beautysaloon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MeetingorganizerApplicationTests {
+class BeautySaloonApplicationTests {
 
 	@Test
 	void contextLoads() {

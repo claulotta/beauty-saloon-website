@@ -1,4 +1,4 @@
-# Eta Meeting Organizer Frontend
+# Beauty Saloon Frontend
 
 ## Project Structure
 

@@ -7,7 +7,7 @@ services:
       - "3306:3306"
     environment:
       MYSQL_ROOT_PASSWORD: pwd
-      MYSQL_DATABASE: meetingorganizer
-      MYSQL_USER: meetingorganizer
+      MYSQL_DATABASE: beautysaloon
+      MYSQL_USER: beautysaloon
       MYSQL_PASSWORD: 123456
 
